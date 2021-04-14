@@ -14,7 +14,7 @@
 * Spring
 * Java
 * Oracle
-## :telephone: Contact Information
+## :telephone_receiver: Contact Information
 :envelope: dhleeepro@naver.com
 ## :page_facing_up: Project
 ### SPARKLING
