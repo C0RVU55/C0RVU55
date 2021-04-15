@@ -1,5 +1,5 @@
 # 이다현 Dahyeon Lee
-> 초보 개발자입니다. 국비학원에서 풀스택 훈련과정을 수강했고 백엔드 엔지니어를 목표로 공부하고 있습니다.
+> 국비학원에서 풀스택 훈련과정을 수강했고 백엔드 엔지니어를 목표로 공부하고 있습니다.
 
 ![한국어](https://shields.io/badge/-한국어-414141) ![日本語](https://shields.io/badge/-日本語-36566F) ![ENG](https://shields.io/badge/-ENG-113B92) 
 ## :bulb: Portfolio
