@@ -3,7 +3,7 @@
 
 ![한국어](https://shields.io/badge/-한국어-414141) ![日本語](https://shields.io/badge/-日本語-36566F) ![ENG](https://shields.io/badge/-ENG-113B92) 
 ## :bulb: Portfolio
-[notion Portfolio](https://www.notion.so/Dahyeon-Lee-bab98e05e290404e8599125d7eca8f2b)
+[notion Portfolio(제작중)](https://www.notion.so/Dahyeon-Lee-bab98e05e290404e8599125d7eca8f2b)
 ## :mag_right: Skills
 ### :full_moon_with_face: Front-end
 * JavaScript
