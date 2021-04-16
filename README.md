@@ -17,7 +17,9 @@
 ## :telephone_receiver: Contact Information
 :envelope: dhleeepro@naver.com
 ## :page_facing_up: Project
-### SPARKLING
+### :fist: SPARKLING
+[view details](https://www.notion.so/Sparkling-11d8186e4a1d4fc996e3a8608bc845fe) / [view project](https://github.com/C0RVU55/Sparkling_)
+<br>스파링 파트너를 찾고 있는 당신을 위한 한방! 스파링 파트너 매칭, 스파링 장소 대관, 용품 구매 전부 해결 가능!
 <!--
 **C0RVU55/C0RVU55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
