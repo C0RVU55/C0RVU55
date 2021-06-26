@@ -15,7 +15,7 @@
 * Java
 * Oracle
 ## :telephone_receiver: Contact Information
-:envelope: dhleeepro@naver.com
+:envelope: mark3d3d3d@gmail.com
 ## :page_facing_up: Project
 ### :fist: SPARKLING
 [view details](https://www.notion.so/Sparkling-11d8186e4a1d4fc996e3a8608bc845fe) / [view project](https://github.com/C0RVU55/Sparkling_)
